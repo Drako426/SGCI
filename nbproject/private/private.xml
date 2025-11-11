@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/builder/HistorialBuilder.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/facade/HistorialFacade.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/factory/UsuarioFactory.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/Administrador.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/Antecedentes.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/HistorialMedico.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/Medico.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/Paciente.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/Usuario.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/estado/AprobadoState.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/estado/ArchivadoState.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/estado/BorradorState.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/estado/EnRevisionState.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/modelo/estado/EstadoHistorial.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/observer/AuditoriaObserver.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/observer/HistorialObserver.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/observer/NotificacionObserver.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/repositorio/DBConexion.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/repositorio/HistorialMedicoRepositorio.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/repositorio/MedicoRepositorio.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/repositorio/PacienteRepositorio.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/seguridad/EncriptacionAES.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/seguridad/EncriptacionBase64.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/seguridad/ServicioEncriptacion.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servicios/EmailDecorator.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servicios/EmailService.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servicios/HistorialDecorator.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servicios/PDFDecorator.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servicios/ServicioHistorial.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servlet/CrearHistorialServlet.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servlet/DescargarHistorialServlet.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servlet/EditarHistorialServlet.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servlet/ListadoHistorialServlet.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/web/crearHistorial.jsp</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/web/assets/css/style.css</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/web/editarHistorial.jsp</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/web/listaHistoriales.jsp</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servlet/BuscarPacienteServlet.java</file>
+            <file>file:/C:/Users/Juan%20Pablo/OneDrive/Documentos/NetBeansProjects/SGCI/src/java/com/sgci/servlet/BuscarMedicoServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
